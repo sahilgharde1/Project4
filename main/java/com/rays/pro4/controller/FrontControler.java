@@ -26,7 +26,7 @@ import com.rays.pro4.Util.ServletUtility;
  */
 @WebFilter(filterName = "FrontCtl", urlPatterns = { "/ctl/*", "/doc/*" })
 
-public class FrontControler implements Filter {
+public class FrontController implements Filter {
 
 	/*
 	 * (non-Javadoc)
